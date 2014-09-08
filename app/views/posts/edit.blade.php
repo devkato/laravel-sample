@@ -1,0 +1,1 @@
+/srv/www/laravel-sample/releases/20140908105829/app/views/posts/edit.blade.php

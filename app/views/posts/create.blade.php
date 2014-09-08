@@ -1,0 +1,1 @@
+/srv/www/laravel-sample/releases/20140908105829/app/views/posts/create.blade.php
